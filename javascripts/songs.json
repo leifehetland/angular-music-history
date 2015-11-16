@@ -1,0 +1,40 @@
+{
+	"songs": [
+	  {
+	  	"id": 1,
+	  	"title": "Idioteque",
+	  	"artist": "Radiohead",
+	  	"album": "Kid A"
+	  },
+	  {
+	  	"id": 2,
+	  	"title": "Hoppipolla",
+	  	"artist": "Sigur Ros",
+	  	"album": "Takk..."
+	  },
+	  {
+	  	"id": 3,
+	  	"title": "Runner Ups",
+	  	"artist": "Kurt Vile",
+	  	"album": "Smoke Ring for My Halo"
+	  },
+	  {	
+	  	"id": 4,
+	  	"title": "Spectrum of the Sky",
+	  	"artist": "Break of Reality",
+	  	"album": "Spectrum of the Sky"
+	  },
+	  {
+	  	"id": 5,
+	  	"title": "Love Will Tear Us Apart",
+	  	"artist": "Joy Division",
+	  	"album": "Love Will Tear Us Apart Single"
+	  },
+	  {
+	  	"id": 6,
+	  	"title": "Girl Like Me",
+	  	"artist": "Slava",
+	  	"album": "Raw Solutions"
+	  }
+	]
+}

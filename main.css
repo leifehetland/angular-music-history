@@ -1,0 +1,68 @@
+#mainPage{
+  background: whitesmoke;
+  border: 5px skyblue solid;
+  border-radius: 10px;
+  text-align: center;
+  opacity: .85;
+  width: 50%;
+  margin-left: 23%;
+  margin-top: 5%;
+}
+.addForm{
+  padding-top: 5%;
+}
+
+#addSongStyle{
+
+  width: 25%;
+  color: red;
+  font-family: Russo One;
+  background: black;
+  border: 5px skyblue solid;
+  border-radius: 10px;
+  text-align: center;
+  opacity: .85;
+  margin-left: 37%;
+  margin-top: 7%;
+  display: inline-block;
+}
+
+#songStyles{
+	padding: 20px 0 20px 0;
+	color: red;
+  font-family: Russo One;
+  background: black;
+  border-radius: 10px solid black;
+  border: 1px solid black;
+
+}
+
+#addButton{
+  color: red;
+  font-family: Russo One;
+  background: black;
+  border: 5px skyblue solid;
+  border-radius: 10px;
+  text-align: center;
+  opacity: .85;
+  font-size: 15px;
+  margin-bottom: 3%
+}
+
+a:link{
+	color: red;
+	text-decoration: none;
+}
+
+#siteName{
+	color: #3383F3;
+	font-family: Playfair Display SC, serif;
+	text-decoration: underline;
+}
+
+#backgroundThings{
+  background-image: url("https://i.warosu.org/data/vr/img/0027/47/1445289992590.png"); ;
+	background-repeat: no-repeat;
+	background-size: cover;
+	padding-bottom: 25%;
+}

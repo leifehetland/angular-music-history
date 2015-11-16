@@ -1,0 +1,10 @@
+	  <input type="text" ng-model="query" />
+<div id="mainPage">
+
+	<h1 id="siteName">Listener</h1>
+	<div ng-repeat="song in songs_list | filter: query" id="songStyles">
+	  <a href="#/songs/{{ song.id }}">{{ song.title }} / </a>
+	  <a href="#/songs/{{ song.id }}">{{ song.album }} / </a>
+	  <a href="#/songs/{{ song.id }}">{{ song.artist }}</a>
+	</div>
+</div>

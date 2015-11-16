@@ -1,0 +1,19 @@
+<section class="addForm">
+  <div id="addSongStyle">
+      <h1><u>Add A Song</u></h1>
+      <div id="songAddSpanStyle">
+        <span>Song name: </span><br><input type="text" ng-model="newSong.title" />
+      </div>
+      <br>
+      <div>
+        <span>Album Name:</span><br> <input type="text" ng-model="newSong.album" />
+      </div>
+      <br>
+      <div>
+        <span>Artist:</span><br> <input type="text" ng-model="newSong.artist" />
+      </div>
+      <br>
+      <button ng-click="addSong()" id="addButton">Add Song</button>
+      <br>
+  </div>
+</section>
